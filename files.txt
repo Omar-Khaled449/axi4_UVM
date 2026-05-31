@@ -1,6 +1,0 @@
-param_pkg.sv
-axi_pkg.sv
-my_axi4.sv
-my_axi4_memory.sv
-axi4_interface.sv
-TOP.sv
